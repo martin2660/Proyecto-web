@@ -82,6 +82,11 @@
   .margenArriba{
     margin-top: 10px;
   }
+
+	.section1{
+		background-color: rgb(249, 218, 16);
+		margin: 0;
+	}
 }
 
 @media (min-width: 501px) and (max-width: 1023px){

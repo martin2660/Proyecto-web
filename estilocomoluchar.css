@@ -140,6 +140,10 @@
   justify-content: center;
 }
 
+.section1{
+  background-color: rgb(249, 218, 16);
+}
+
 .trans {
 	Transition: all 1.5s;
 }
